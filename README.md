@@ -9,6 +9,8 @@ Ce projet propose un script Python pour Blender permettant de générer un Rubik
 - **Modifier de biseau** : Applique des arêtes lisses aux cubes en utilisant le modificateur de biseau de Blender, avec une largeur de biseau ajustable.
 - **Lissage des formes** : Les faces des cubes sont automatiquement lissées pour un rendu plus soigné.
 
+![Rubik's Cube Exemple](Images/rubiks_cube_example.png)
+
 ## Paramètres personnalisables
 
 - **Taille des cubes** : Ajustez la taille des cubes individuels.
@@ -16,4 +18,8 @@ Ce projet propose un script Python pour Blender permettant de générer un Rubik
 - **Largeur du biseau** : Contrôlez la largeur du biseau appliqué aux arêtes des cubes.
 - **Dimension du Rubik's Cube** : Configurez la dimension du Rubik's Cube (par exemple, 3x3, 4x4, etc.).
 
+![Interface Blender](Images/blender_interface.png)
 
+## Licence
+
+Ce projet est sous licence MIT.
