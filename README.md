@@ -20,6 +20,3 @@ Ce projet propose un script Python pour Blender permettant de générer un Rubik
 
 ![Interface Blender](Images/blender_interface.png)
 
-## Licence
-
-Ce projet est sous licence MIT.
